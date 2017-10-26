@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+=======================================================================================
+ Brooklyn HTML Template by United Themes (http://www.unitedthemes.com)
+ Marcel Moerkens & Matthias Nettekoven 
+=======================================================================================
+-->
+
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+    <meta name="msvalidate.01" content="7D6DDD98C12C6292EEBA47DCFF4BB6B3" />
+	<title>Derick Cummings is a Multimedia Specialist in Massachusetts</title>
+<meta name="Description" content="Excellence in multimedia, website services and video production services in Massachusetts. " />
+	<meta name="author" content="DerickCummings.com">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+  	<link rel="stylesheet" href="css/reset.css" media="all">
+    <link rel="stylesheet" href="css/ut-fontface.css" media="all">
+    <link rel="stylesheet" href="css/font-awesome.css" media="all">
+	<link rel="stylesheet" href="css/flexslider.css" media="all">
+    <link rel="stylesheet" href="css/magnific-popup.css" media="all">
+    <link rel="stylesheet" href="css/ut-responsive-grid.css" media="all">
+    <link rel="stylesheet" href="css/color.css" media="all">
+    <link rel="stylesheet" href="css/style.css" media="all">
+    
+     <!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+    
+   <!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="ie8-and-down.css" />
+	<style>.hero .hero-holder {
+		margin-left:-410px;
+	}
+	</style>
+    <![endif]-->
+    
+    <!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="css/ie.css" />
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+	<!-- Load jQuery
+  	================================================== -->
+  	<script src="js/jquery.min.js"></script>
+    <script src="js/SmoothScroll.js"></script>
+	<script src="js/modernizr.js"></script>
+    <script src="js/device.min.js"></script>
+    
+</head>
+
+<body id="mainsite">
+	
+    <a id="top"></a>
+    
+	<!-- Page Layout
+	================================================== -->
+    
+     <!-- header section -->
+	<header id="header-section" class="ha-header ha-header-hide">
+    	<div class="grid-container">
+				<div class="ha-header-perspective">
+					<div class="ha-header-front">
+                    <div class="grid-20 tablet-grid-20 hide-on-mobile">
+						<h1 class="logo"><a href="#top"><img src="images/DC-logo-82px.jpg" alt="logo"></a></h1>
+                        </div>
+						<nav id="ut-navigation" class="grid-80 tablet-grid-80 hide-on-mobile">
+                        	<a class="selected" href="#top">Home</a>
+							<a href="#about-section">About</a>
+							<a href="#team-section">Skills</a>
+							<a href="#service-section">Services</a>
+                         <a href="#portfolio-section">Portfolio</a>
+                        <!-- <a href="#testimonial-section">Clients</a> --> 
+                         <a href="#contact-section">Contact</a>
+                         <a href="#social-section">Social</a>
+						</nav>
+					</div>
+				</div><!-- close .ha-header-perspective --> 
+        </div><!-- close grid container -->  
+    </header><!-- close header -->
+    
+    <div class="clear"></div>
+    
+	<!-- hero section -->
+   <section class="hero ha-waypoint parallax-section parallax-banner-3 parallax-background" data-animate-up="ha-header-hide" data-animate-down="ha-header-hide">
+        <div class="parallax-overlay parallax-overlay-1"></div> 
+    	<div class="grid-container">
+    		
+            <!-- hero holder -->
+            <div class="hero-holder grid-70 mobile-grid-100 tablet-grid-100">
+            	<div class="hero-inner">
+                    <span class="hero-description">Multimedia Specialist: Video - Audio - Internet</span>
+                    <div class="hero-title-holder">
+                      <h1 class="hero-title">Derick Cummings<span></span></h1></div>
+                    <span class="btn-holder"><a id="to-about-section" class="hero-btn">Enter</a></span>
+                </div>
+            </div><!-- close hero-holder -->    													
+    	</div>
+    </section><!-- close hero section -->
+    
+    <div class="clear"></div>
+   
+    <div id="main-content" class="wrap">
+    
+    <!-- about section -->
+    <div class="nav-waypoint">
+	<section id="about-section" class="about-section content-section ha-waypoint" data-animate-up="ha-header-hide" data-animate-down="ha-header-small">
+		<div class="grid-container">
+        	
+            <!-- section header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="section-header">
+                    <h2 class="section-title"><span>About Derick Cummings</span></h2>
+                    <p class="section-slogan">Derick is a <strong>Multimedia Specialist</strong> with many skill sets, strong communication<br>
+ and has over 15 years experience in the video, audio and internet markets.</p>
+                </header>
+            </div>
+            <!-- close section header -->
+            
+            <div class="grid-50 tablet-grid-100 mobile-grid-100 about-box">
+            	<figure class="about-icon"><img src="images/multimedia-1.png" alt="app-development"></figure>
+                
+                <div class="about-box">
+                    <h3>Multimedia Specialist</h3>
+                    <p>Worked with clients and several media houses creating video, audio and websites. Expert Level Mac & PC - Adobe/Pro Apple Software</p>
+                </div>
+            </div>
+            
+            <div class="grid-50 tablet-grid-100 mobile-grid-100 about-box">
+            	<figure class="about-icon"><img src="images/video-1.png" alt="Video/Audio Director and Editor"></figure>
+                
+                <div class="about-box">
+                    <h3>Video/Audio Director and Editor</h3>
+                    <p>Directed/shot, edited short films, corporate videos, TV production, cast talent and production coordination.</p>
+                </div>
+            </div>
+            
+            <div class="grid-50 tablet-grid-100 mobile-grid-100 about-box">
+            	<figure class="about-icon"><img src="images/website-1.png" alt="Website Developer"></figure>
+                
+                <div class="about-box">
+                    <h3>Website Developer</h3>
+                    <p>Developing websites and internet projects since the late 90's. Worked for media houses and as a freelancer designing, developing or managing national/international client projects.</p>
+                </div>
+            </div>
+            
+            <div class="grid-50 tablet-grid-100 mobile-grid-100 about-box">
+            	<figure class="about-icon"><img src="images/audio-1.png" alt="Songwriter / Performer"></figure>
+                
+            	<div class="about-box">
+                    <h3>Songwriter / Performer</h3>
+                    <p>More than 25 years of songwriting and performing experience. Derick started performing in bars, clubs, concerts and private functions as an early teenager back in the 80's with the Band Stone Lily. After moving to Boston, joined up with Hypnotic Clambake to tour the USA, Carribean and Canada.</p>
+                </div>
+            </div>
+            
+    	</div><!-- close grid-container -->
+    </section><!-- close about section -->
+            
+    <div class="clear"></div>
+    
+    <!-- parallax banner 2-->
+     <section id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
+     <div class="parallax-overlay parallax-overlay-2"></div>
+		<div class="grid-container parallax-content">
+            
+            	<!-- parallax header -->
+            	<div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                    <header class="parallax-header">
+                        <h2 class="parallax-title"><span>Philosophy</span></h2>
+                        <p class="parallax-slogan"><strong>Logic</strong> will get you from A to B. <strong>Imagination </strong>will take you everywhere.- Albert Einstein!</p>
+                    </header>
+                </div>
+            	<!-- close parallax header -->
+   
+		</div><!-- close grid container -->
+	</section><!-- close parallax banner 2-->
+    
+    </div><!-- close nav-waypoint -->
+    
+    <div class="clear"></div>
+    
+    <!-- team section -->
+    <div class="nav-waypoint">
+	<section id="team-section" class="team-section content-section">
+		<div class="grid-container">
+        	
+            <!-- section header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="section-header">
+                    <h2 class="section-title"><span>Skills and Experience</span></h2>
+                    <p class="section-slogan">Derick has many years <strong>experience</strong> and a range of <strong>technical</strong> skills,<br>
+ <strong>creative </strong>thoughts and youthful ideas</strong> to bring to the table.</p>
+                </header>
+            </div>
+            <!-- close section header -->
+            
+            <div class="clear"></div>
+            
+            <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-websites.png" alt="Website Development"></figure>
+                
+                <div class="member-box">
+                    <h3>Website Development</h3>
+                    <span>Adobe Dreamweaver, Photoshop - HTML, CSS, PHP, Database, WP, Hosting, SSL, Ecommerce </span>
+                </div>
+                
+			</div><!-- close member -->
+            
+            <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-marketing.png" alt="Internet Marketing"></figure>
+                
+                <div class="member-box">
+                    <h3>Internet Marketing</h3>
+                    <span>Google Analytics, Web Tools, PPC, SEO, Blog, Email Campaign, Newsletter, Social Media</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+            <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-printing.png" alt="member"></figure>
+                
+                <div class="member-box">
+                    <h3>Print Design</h3>
+                  <span>Adobe InDesign, Photoshop, Illustrator, Acrobat - Brochures, Magazines, Postcards, Business Cards</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+             <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-vidprod.png" alt="Video Production"></figure>
+                
+                <div class="member-box">
+                    <h3>Video Production</h3>
+                    <span>Camera Operator, Director, Lighting, Script Writing - Live Event Capture, Corporate Video, Short Films, Kids TV</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+            <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-video.png" alt="Video Editing"></figure>
+                
+                <div class="member-box">
+                    <h3>Video Editing</h3>
+                    <span>Adobe Premiere, After Effects, Media Encoder, Final Cut Pro (7, X) - Music Videos, Independent Film, Cable TV Production</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+             <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-photo.png" alt="Photography"></figure>
+                
+                <div class="member-box">
+                    <h3>Photography</h3>
+                    <span>Adobe Photoshop, Lightroom, iPhoto - DSLR, Photo Enhance, Weddings, Corporate, Live Events, Band, Profiles, Products</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+             <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-audio.png" alt="Audio Production"></figure>
+                
+                <div class="member-box">
+                    <h3>Audio Production</h3>
+                    <span>Digital Performer, Pro Tools, Soundtrack Pro, SoundForge - Multitrack Recording, Live Engineering/Capturing, Mastering</span>
+                </div>
+                
+			</div><!-- close member -->
+            
+             <!-- member 1 -->
+			<div class="member-box grid-25 mobile-grid-100 tablet-grid-50">
+            	<figure class="member-photo"><img src="images/skills-song.png" alt="Songwriting Sound Design"></figure>
+                
+                <div class="member-box">
+                    <h3>Music Creation</h3>
+                    <span>Film Composition, Sound Design, Foley, Live Music, Band, Commercials, Stock Creation</span>
+                </div>
+                
+			</div><!-- close member -->
+			
+		</div><!-- close grid-container -->  
+	</section><!-- close team section -->
+    
+   <div class="clear"></div>
+   
+   <!-- Counter Section -->
+    <section id="counter-section" class="counter-section parallax-section parallax-background">
+     	<div class="parallax-overlay parallax-overlay-6"></div>
+		<div class="grid-container parallax-content">
+        	<div class="grid-parent grid-100 mobile-grid-100 tablet-grid-100">
+            
+            <!-- parallax header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="parallax-header">
+                    <h2 class="parallax-title"><span>Approximate Fun Facts</span></h2>
+                    <p class="parallax-slogan">First computer was a <strong>Texas Instrument TI-99</strong>,<br>
+ now using the latest <strong>Mac Pro Desktop.</strong></p>
+                </header>
+            </div>
+            <!-- close parallax header -->
+ 
+            <!-- counter box 1 -->
+			<div class="grid-25 mobile-grid-100 tablet-grid-25">
+            	<div class="counter-box counter" data-counter="346">
+            		<span class="count">346</span>
+                 	<h3 class="counter-details">Websites <br>
+Developed</h3>
+                </div>
+			</div><!-- close counter box -->
+            
+            <!-- counter box 2 -->
+			<div class="grid-25 mobile-grid-100 tablet-grid-25">
+            	<div class="counter-box counter" data-counter="232">
+            		<span class="count">232</span>
+                 	<h3 class="counter-details">Production <br>
+of Videos</h3>
+                </div>
+			</div><!-- close counter box -->
+            
+            <!-- counter box 3 -->
+			<div class="grid-25 mobile-grid-100 tablet-grid-25">
+            	<div class="counter-box counter" data-counter="420">
+            		<span class="count">420</span>
+                 	<h3 class="counter-details">Audio <br>
+Projects</h3>
+                </div>
+			</div><!-- close counter box -->
+            
+            <!-- counter box 4 -->
+			<div class="grid-25 mobile-grid-100 tablet-grid-25">
+            	<div class="counter-box counter" data-counter="2900">
+            		<span class="count">2900</span>
+                 	<h3 class="counter-details">Gigs <br>
+Performed</h3>
+                </div>
+			</div><!-- close counter box -->
+    
+    		</div><!-- close grid-100 -->
+		</div><!-- close grid container -->
+	</section><!-- close parallax banner 3-->
+    
+    <!-- cta section -->
+    <section id="cta-section" class="cta-section content-section">
+    	<div class="grid-container">    
+        	<div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">            
+            	<span class="cta-btn cl-effect-18"><a href="#contact-section" class="cl-effect-18">Contact Derick</a></span>
+            </div>            
+    	</div> 
+    </section><!-- close cta section -->
+    </div><!-- close nav-waypoint -->
+         
+    <div class="clear"></div>    
+    
+    <!-- service section -->
+    <div class="nav-waypoint">
+     <section id="service-section" class="parallax-section parallax-background service-section">
+     <div class="parallax-overlay parallax-overlay-3"></div>
+		<div class="grid-container parallax-content">
+        	<div class="grid-parent grid-100 mobile-grid-100 tablet-grid-100">
+            
+            <!-- entry header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+            <header class="parallax-header">
+            <h2 class="parallax-title"><span>Services</span></h2>
+            <p class="parallax-slogan">Depending on my current workload... I am available for hire on a per project basis or by the hour for the following services listed below. Hope to hear from you! Thanks, Derick</p>
+            </header>
+            </div>
+            <!-- close entry header -->
+ 
+            <!-- icon box 1 -->
+			<div class="grid-33 mobile-grid-100 tablet-grid-100">
+            	<div class="box-fade icon-box">
+            	<div class="arrow-right"></div>
+				<i class="icon-film icon-4x service-icon"></i>
+                </div>
+                <div class="box-fade info"> 
+                <h3>Video</h3>
+				<p>Videographer, Video Editing, Crew Production, Director, Corporate Video Production</p>
+               </div>
+			</div><!-- close icon box -->
+            
+            <!-- icon box 2 -->
+			<div class="grid-33 mobile-grid-100 tablet-grid-100">
+            	<div class="box-fade icon-box">
+            	<div class="arrow-right"></div>
+                <i class="icon-music icon-4x service-icon"></i>
+                </div>
+                <div class="box-fade info"> 
+                <h3>Audio</h3>
+				<p>Recording, Live Capturing, Engineering, Editing, Mastering, Sound Design, Writing, Performance</p>
+               </div>
+              
+			</div><!-- close icon box -->
+            
+            <!-- icon box 3 -->
+			<div class="grid-33 mobile-grid-100 tablet-grid-100">	
+                <div class="box-fade icon-box">
+            	<div class="arrow-right"></div>
+				<i class="icon-globe icon-4x service-icon"></i>
+                </div>
+                <div class="box-fade info"> 
+                <h3>Internet</h3>
+				<p>Website Development, Ecommerce, Database, Social Media, SEO, Marketing </p>
+               </div>
+			</div><!-- close icon box -->
+    
+    </div><!-- close grid-100 -->
+		</div><!-- close grid container -->
+	</section><!-- close service section -->
+    
+    </div><!-- close nav-waypoint -->
+    
+    <div class="clear"></div>
+    
+    <!-- portfolio section -->
+    <div class="nav-waypoint">
+	<section id="portfolio-section" class="portfolio-section content-section">
+		<div class="grid-container">
+        	
+            <!-- section header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="section-header">
+                    <h2 class="section-title"><span>Portfolio</span></h2>
+                    <p class="section-slogan">Here are a few various fun and exciting <strong>projects</strong> to browse through.</p>
+                </header>
+            </div>
+            <!-- close section header -->
+            
+            <div class="clear"></div>
+            
+            
+             <!-- portfolio box 1 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?v=qRY1I4XJ19k">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Demo-reel3.jpg" alt="Demo Reel #3"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">DC Demo Reel #3<span class="portfolio-category">Demo Reel #3 - DerickCummings.com</span></h3>
+                </div><!-- close portfolio caption -->               
+                </div>
+                </a>              
+			</div><!-- close portfolio -->
+            
+             <!-- portfolio box 2 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?v=-cENB0M2cdc">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Demo-reel2.jpg" alt="Demo Reel #2"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">DC Demo Reel #2<span class="portfolio-category">Demo Reel #2 - DerickCummings.com</span></h3>
+                </div><!-- close portfolio caption -->               
+                </div>
+                </a>              
+			</div><!-- close portfolio -->
+              
+            <!-- portfolio box 3 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?feature=player_embedded&v=Jw6eBpl4DGk">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Lundgren-why-choose1.jpg" alt="Lundgren Honda"></figure><!-- close portfolio image --> 
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Why Choose Lundgren Honda<span class="portfolio-category">Lundgren Honda, Auburn and Greenfield, MA</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>
+                </a>               
+			</div><!-- close portfolio -->
+            
+             <!-- portfolio box 4 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/Birds-1_2_1.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Birds-1_2_1.jpg" alt="The Birds Upstairs"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">The Birds Upstairs<span class="portfolio-category">Sound Mixer and Foley</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>   
+                </a>            
+			</div><!-- close portfolio -->
+            
+             <!-- portfolio box 5 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?v=jH5mtlJ6cg0">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Demo-reel1.jpg" alt="Wedding Demo Reel #1"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Wedding Demo Reel #1<span class="portfolio-category">Wedding Demo Reel #1 - DerickCummings.com</span></h3>
+                </div><!-- close portfolio caption -->               
+                </div>
+                </a>              
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 6 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?feature=player_embedded&v=WoCFpHSr5uw">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/portfolio-paul-revere.jpg" alt="Operation Paul Revere Contest FINALIST"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Thank you Michelle<span class="portfolio-category">Operation Paul Revere Contest FINALIST</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>     
+                </a>          
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 7 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?feature=player_embedded&v=YlsaDyEJ_l0">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/wormcity-TV-1.jpg" alt="portfolio image"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Wormcity TV Show<span class="portfolio-category">TV Production Comedy Skit Show for Teens</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>  
+                </a>             
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 8 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/Deric-Dyer-video1.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Deric-Dyer-video1.jpg" alt="Live Video Production"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Deric Dyer<span class="portfolio-category">Live Video Production</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>          
+                </a>     
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 6 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/Lexington3_HDR2.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Lexington3_HDR2.jpg" alt="Photography of Bank Renovation"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Bank Renovation<span class="portfolio-category">Photography of Bank Renovation</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>    
+                </a>           
+			</div><!-- close portfolio -->
+     
+            <!-- portfolio box 9 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	 <a class="portfolio-popup" href="images/portfolio/large/lexington4_HDR2.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/lexington4_HDR2.jpg" alt="Bank Rennovation"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Bank Renovation<span class="portfolio-category">Photography of Bank Renovation</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>          
+                </a>             
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 10 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?feature=player_embedded&v=L03FR-06FbU">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Juicy-Lucy.jpg" alt="Juicy Lucy"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Juicy Lucy<span class="portfolio-category">Music Video for Stone Lily</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>  
+                </a>             
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 11 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/DC-sport-training-video1.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/DC-sport-training-video1.jpg" alt="Sport Videos"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Sport Videos<span class="portfolio-category">Sport Training Video Production</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>   
+                </a>            
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 12 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup-video" href="http://www.youtube.com/watch?v=52xALaR2i_0">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Lundgren-Specials1.jpg" alt="Monthly Specials"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Lundgren Monthly Specials Oct 2013<span class="portfolio-category">Lundgren Honda, Auburn and Greenfield, MA</span></h3>
+                </div><!-- close portfolio caption -->               
+                </div>
+                </a>              
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 13 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/Dick-Chase.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/Dick-Chase.jpg" alt="Dick Chase"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Dick Chase<span class="portfolio-category">Multi-instrumentalist photo shoot.</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>  
+                </a>             
+			</div><!-- close portfolio -->
+            
+            <!-- portfolio box 14 -->
+			<div class="grid-33 mobile-grid-50 tablet-grid-50">
+            	<a class="portfolio-popup" href="images/portfolio/large/MD-video1.jpg">
+            	<div class="portfolio-box">       
+            	<figure class="portfolio-image"><img src="images/portfolio/thumb/MD-video1.jpg" alt="Moral Dilemma"></figure><!-- close portfolio image -->
+                <div class="portfolio-caption">
+                    <h3 class="portfolio-title">Moral Dilemma<span class="portfolio-category">Live Concert Video Production</span></h3>
+                </div><!-- close portfolio caption -->
+                </div>   
+                </a>            
+			</div><!-- close portfolio -->
+			
+		</div><!-- close grid-container -->
+	</section><!-- close portfolio section -->
+    
+    <div class="clear"></div>
+    
+    <!-- social section -->
+     <section id="social-section" class="parallax-section parallax-background social-section">
+     <div class="parallax-overlay parallax-overlay-4"></div><!-- parallax overlay -->
+		<div class="grid-container parallax-content">
+        	<div class="grid-parent grid-100 mobile-grid-100 tablet-grid-100">
+            
+            	<!-- parallax header -->
+            	<div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                    <header class="parallax-header">
+                    <h2 class="parallax-title"><span>Get Connected</span></h2>
+                    <p class="parallax-slogan">Reach out and <strong>connect</strong> to see what everyone is up to or link up professionally.</p>
+                    </header>
+                </div>
+            	<!-- close parallax header -->
+            
+            <div class="clear"></div>
+            
+            <!-- social network -->
+            <ul class="social-network">
+            	<li class="facebook grid-20 tablet-grid-20 mobile-grid-50">
+                	<a class="social-link" href="http://www.facebook.com/derickcummings" target="_blank">
+                    <span class="social-icon"><i class="icon-facebook icon-4x"></i></span>
+                    <h3 class="social-title">Facebook</h3>
+                    <span class="social-info">Join the Conversation</span>
+                    </a>
+                </li>
+                <li class="twitter grid-20 tablet-grid-20 mobile-grid-50">
+                	<a class="social-link" href="#" target="_blank">
+                    <span class="social-icon"><i class="icon-twitter icon-4x"></i></span>
+                    <h3 class="social-title">Twitter</h3> 
+                    <span class="social-info">Get the Latest News</span>
+                    </a>
+                </li>
+                <li class="google-plus grid-20 tablet-grid-20 mobile-grid-50">
+                	<a class="social-link" href="https://plus.google.com/u/0/109485909554005983766" target="_blank">
+                    <span class="social-icon"><i class="icon-google-plus icon-4x"></i></span>
+                    <h3 class="social-title">Google Plus</h3>
+                    <span class="social-info">Join Our Circle</span>
+                    </a>
+                </li>
+                <li class="youtube grid-20 tablet-grid-20 mobile-grid-50">
+                	<a class="social-link" href="http://www.youtube.com/channel/UCZPvHK5LR5aB6NqIg7DZyIQ" target="_blank">
+                    <span class="social-icon"><i class="icon-youtube icon-4x"></i></span>
+                    <h3 class="social-title">YouTube</h3>
+                    <span class="social-info">View Exclusive Videos</span>
+                    </a>
+                </li>
+            	<li class="instagram grid-20 tablet-grid-20 mobile-grid-50">
+                	<a class="social-link" href="#" target="_blank">
+                	<span class="social-icon"><i class="icon-linkedin icon-4x"></i></span>
+                    <h3 class="social-title">LinkedIn</h3>
+                    <span class="social-info">Professionals Connect</span>
+                    </a>
+                </li>
+            </ul><!-- close social network -->
+    	
+      		</div><!-- close grid-100 -->
+		</div><!-- close grid container -->
+	</section><!-- close social section -->
+    </div><!-- close nav-waypoint -->
+    
+    <div class="clear"></div>
+    
+    <!-- testimonial section -->
+    <div class="nav-waypoint">
+	<section id="testimonial-section" class="testimonial-section content-section">
+    	
+		<div class="grid-container">
+        
+        <!-- section header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="section-header">
+                    <h2 class="section-title"><span>Client Comments</span></h2>
+                    <p class="section-slogan">View comments from <strong>satisfied clients!</strong></p>
+                </header>
+            </div>
+            <!-- close section header -->
+            
+            <div class="clear"></div>
+        	
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+            
+            <div class="ut-testimonials">
+            	
+                
+                <div id="quoteSlider" class="ut-rotate-quote">
+                	<ul class="slides">
+                        <li>
+                        	<span class="ut-quote-comment">“When outsourcing web design, Derick Cummings has proved to be one offering quick response, as well as effective direction. His efforts exposed outside of other vendors 9-5 availability can make all the difference when implementing changes -- especially those who test various pages for effectiveness.”</span>
+							<h3 class="ut-quote-name">Jay Snow, Marketing Manager, MTI Systems.</h3>    
+                        </li>
+                        <li>
+                        	<span class="ut-quote-comment">“A gifted and dedicated jack of all trades -- the perfect companion to have on set... dedicated to enacting your vision and superbly helpful in any stage of the production... a great listener and collaborator - the very best at problem solving and project management.”</span>
+							<h3 class="ut-quote-name">Christopher Jarvis - Jarvis Films</h3>     
+                        </li>
+                    </ul>
+                </div><!-- close quoteSlider -->    
+            </div><!-- close ut-testimonials -->
+           <br>
+<br>
+ <a href="http://www.dymotek.com">Dymotek</a> is a <a href="http://www.dymotek.com/silicone-molding/overview.php" title="silicone molding">silicone molding</a> and <a href="http://www.dymotek.com/injection-molding/overview.php" title="plastic injection molding">plastic injection molding</a> company from Ellington, Connecticut. They are known for worldwide molding and assembly services with a state-of-the-art facility and excellent <a href="http://www.dymotek.com/engineering/overview.php" title="plastic engineering" target="_blank">plastic engineering</a> professionals.
+            
+           </div><!-- close grid-70 prefix-15 mobile-grid-100 tablet-grid-100 -->			
+            
+		</div><!-- close container -->
+	</section><!-- close testimonial section -->
+     
+    <div class="clear"></div>
+    
+    <!-- client section -->
+	<section id="client-section" class="client-section content-section">
+    	
+		<div class="grid-container">
+        
+        <div class="client-holder grid-parent grid-100 tablet-grid-100 mobile-grid-100">
+         <!-- client box -->
+        <div class="grid-20 tablet-grid-20 mobile-grid-50">
+        	<div class="client-logo">
+            	<a href="http://www.dymotek.com" target="_blank"><img src="http://www.dymotek.com/img/logo.gif" alt="Dymotek"></a>
+            </div>
+        </div><!-- close client box -->
+        
+        <!-- client box -->
+        <div class="grid-20 tablet-grid-20 mobile-grid-50">
+        	<div class="client-logo">
+            	<a href="http://lundgrenhonda.com"><img src="images/Lundgren-blue-200px.png" alt="Lundgren Honda"></a>
+            </div>
+        </div><!-- close client box -->
+        
+         <!-- client box -->
+        <div class="grid-20 tablet-grid-20 mobile-grid-50">
+        	<div class="client-logo">
+            	<a href="http://www.mtisystems.com"><img src="images/MTI-logo-200px.png" alt="MTI Systems"></a>
+            </div>
+        </div><!-- close client box -->
+        
+         <!-- client box -->
+        <div class="grid-20 tablet-grid-20 mobile-grid-50">
+        	<div class="client-logo">
+            	<a href="http://www.gbiavis.com"><img src="images/GBI-Avis-Logo1.png" alt="GBIAvis"></a>
+            </div>
+        </div><!-- close client box -->
+        
+         <!-- client box -->
+        <div class="grid-20 tablet-grid-20 mobile-grid-50">
+        	<div class="client-logo">
+            	<a href="http://www.mycrsinc.com"><img src="images/CRS-logo1.png" alt="CRS Inc"></a>
+            </div>
+        </div><!-- close client box -->
+        
+         
+        
+        </div><!-- close client-holder -->		
+            
+		</div><!-- close container -->
+	</section><!-- close client section -->
+    
+    </div><!-- close nav-waypoint -->
+    
+    <div class="clear"></div>
+    
+     <!-- contact section -->
+     <div class="nav-waypoint">
+     <section id="contact-section" class="contact-section parallax-section parallax-background">
+     <div class="parallax-overlay parallax-overlay-5"></div><!-- parallax overlay -->
+		<div class="grid-container parallax-content">
+        
+            	<!-- parallax header -->
+            	<div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                    <header class="parallax-header">
+                        <h2 class="parallax-title"><span>Contact us</span></h2>
+                        <p class="parallax-slogan">I look forward to feedback, questions and <strong>hearing from you!</strong>- thanks, Derick</p>
+                    </header>
+                </div>
+            	<!-- close parallax header -->
+            
+            <div class="clear"></div>
+            
+            <!-- contact wrap -->
+            <div class="grid-100 mobile-grid-100 tablet-grid-100">
+        	<div class="contact-wrap">
+            
+            
+            <!-- contact message -->
+            <div class="grid-parent grid-40 suffix-5 mobile-grid-100 tablet-grid-100">
+            <div class="contact-message">
+            <h3 class="grid-100">Contacts</h3>
+            	<ul class="icons-ul">
+                <img src="images/Derick-Cummings-tn-IMG_9975.jpg" alt="" width="300" height="417"/>
+                	<li><i class="icon-li icon-home"></i><a href="#social-section">Social Media Contacts</a></li>
+                    <li><i class="icon-li icon-phone"></i>413-883-3736</li>
+                </ul>
+            </div>
+            </div><!-- close contact message -->
+            
+            <!-- contact form -->
+            <div class="grid-parent grid-55 mobile-grid-100 tablet-grid-100">
+            <div class="contact-form-holder clearfix">
+          	
+            
+            <h3 class="grid-100">Send an Email</h3>
+            
+            <!-- contact form -->
+            <form id="contact-form" class="contact-form">
+            
+            	<ul class="grid-50">
+                
+                	<li><input id="name" class="name" type="text" name="name" placeholder="Name:"></li>
+                    <li><input id="email" class="email" type="email" name="email" placeholder="E-Mail:"></li>
+                    <li><input id="phone" class="phone" type="text" name="phone" placeholder="Phone:"></li>
+                    
+            	</ul>
+                
+                <ul class="grid-50">
+                    <li><textarea id="message" class="message" name="message" placeholder="Message:"></textarea></li>
+                </ul>
+                
+                <div class="grid-100">    
+                    <input id="send-btn" class="send-btn" type="submit" name="send-btn" value="Send">
+                    <div class="success-message">Email has been sent!</div>
+                    <div class="alert-message"></div>
+                    <div class="error-message">Email could not be delivered. Please try again later!</div>
+                </div>   
+              </form><!-- close contact form -->
+                    
+            </div>
+            </div><!-- close contact-form-holder -->
+            
+            </div>
+            </div><!-- close contact wrap -->
+            
+            
+		</div><!-- close container -->
+	</section><!-- close contact section -->
+    
+	</div><!-- close nav-waypoint -->
+    
+    <div class="clear"></div>
+    
+	<!-- Footer Section -->
+	<footer class="footer">
+	<a href="#top" class="toTop"><i class="icon-angle-up"></i></a>
+    	<div class="grid-container">
+			<div class="grid-100 mobile-grid-100 tablet-grid-100">
+                <span class="copyright">© 2014 Derick Cummings - All Rights Reserved</span>
+         	</div>
+		</div><!-- close container -->
+	</footer><!-- close footer -->
+</div>
+	
+    <!-- Load Javascript
+  	================================================== -->
+    <script src="js/jquery.mb.YTPlayer.js"></script>
+    <script src="js/jquery.flexslider-min.js"></script>
+    <script src="js/jquery.parallax.min.js"></script>
+    <script src="js/jquery.scrollTo.min.js"></script>
+	<script src="js/waypoints.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+   	<script src="js/jquery.custom.js"></script>
+    
+<!-- End Document
+================================================== -->
+</body>
+</html>
