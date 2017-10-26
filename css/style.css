@@ -319,7 +319,7 @@ img {
 }
 .hero-description {
 	color:#FFFFFF;
-	font-size:24px;
+	font-size:20px;
 	letter-spacing:1px;
 	margin-bottom:10px;
 	text-align:center;
@@ -330,6 +330,7 @@ img {
 }
 .btn-holder {
 	display:block;
+	margin-top: 25px;
 }
 .hero-btn {
 	background:transparent;
