@@ -52,7 +52,7 @@
 				'Welcome to Ivy<span>Florist</span>',
 				'<span>Love</span> is the Flower',
 				'<span>The Earth Laughs in</span> Flower',
-				'<span>Ivy</span> Florist',
+				'<span>Ivy\'s</span> Florist',
 				'All Flower are<span>Beautiful</span>'
 			] ,
 			counter = 0;                
