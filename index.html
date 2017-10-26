@@ -80,22 +80,12 @@
                       <h1 class="hero-title">Ivy's <strong>Florist</strong><span></span></h1></div>
                       <span class="hero-description">There are so many beautiful reasons to be happy… and flowers are just one!</span>
                       <embed src="./images/YouAreSoBeautiful.mp4" autostart="true" loop="true" width="2" height="0"></embed>
-                      <div class="music">
-  <p>Pachelbel's Canon</p>
-  <!--[if !IE]>-->
-  <object id="Cannon" type="audio/mpeg" data="http://calgarydj.ca/sound%20files/Pachebels%20Cannon.mp3" width="250" height="16">
-    <param name="autoplay" value="true" />
-    <param name="src" value="http://calgarydj.ca/sound%20files/Pachebels%20Cannon.mp3" />
-  <!--<![endif]-->
-    <object id="Cannon" classid="CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6" width="250" height="60">
-      <param name="autostart" value="true" />
 
-      <param name="url" value="http://calgarydj.ca/sound%20files/Pachebels%20Cannon.mp3" />
-      <param name="showcontrols" value="false" />
-      <param name="volume" value="100" />
-    <!--[if !IE]>--></object><!--<![endif]-->
-  </object>
-</div><!-- end of control -->
+                      <audio autostart>
+    <source type="audio/ogg" src="mySong.ogg" />
+    <source type="audio/mpeg" src="YouAreSoBeautiful.mp4" />
+    <p>Your browser does not support HTML5 audio. Sorry!</p>
+</audio>
 
 
 
