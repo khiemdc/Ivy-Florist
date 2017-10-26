@@ -624,8 +624,8 @@ img {
 .portfolio-image img {
 	display: block;
     width: 100%;
-    height: 300px;
-	box-shadow:0 0 0 0 #000000;
+    height: 20em;
+    box-shadow:0 0 0 0 #000000;
 }
 .portfolio-caption:before, 
 .portfolio-title {
@@ -1413,3 +1413,44 @@ textarea:focus {
   padding-left: 0;
   padding-right: 0;
 }
+
+.inner-container {
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto; }
+  .inner-container::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.inner-container,
+.outer-container {
+  padding-left: 2em;
+  padding-right: 2em; }
+
+.cta-section {
+   height: -15%; 
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 4em; }
+
+.cta-button {
+  border-radius: 5px;
+  border: 1px solid #F5C453;
+  padding: 1em 1.5em;
+  display: inline-block;
+  font-size: 1.5em;
+  font-style: italic;
+  margin: 0 1em;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  min-width: 10em;
+  transition: all .25s ease; }
+  .cta-button:hover {
+    transform: scale(1.025);
+    transition: all .25s ease; }
+
+.arrow-right {
+    transform: translateX(5px);
+    transition: all .25s ease;
+    display: inline-block; }
