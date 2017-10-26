@@ -248,6 +248,21 @@ img {
 	background-position: center center;
 	/*text-transform:uppercase;*/
 }
+
+.section-title-2 {
+	font-size:55px;
+	margin-bottom:20px;
+	background-attachment: scroll;
+	background-image: url('../images/divider1.png');
+	background-repeat: repeat-x;
+	background-position: center center;
+	/*text-transform:uppercase;*/
+}
+.section-title-2 span {
+	background:#FFFFFF;
+	padding:0 35px;
+}
+
 .section-title span {
 	background:#FFFFFF;
 	padding:0 35px;
