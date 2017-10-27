@@ -12,6 +12,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 	<!-- CSS
   ================================================== -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
   	<link rel="stylesheet" href="css/reset.css" media="all">
     <link rel="stylesheet" href="css/ut-fontface.css" media="all">
     <link rel="stylesheet" href="css/font-awesome.css" media="all">
@@ -38,32 +40,36 @@
 </head>
 
 <body id="mainsite">
-	
+  
+
     <a id="top"></a>
     
 	<!-- Page Layout
 	================================================== -->
     
      <!-- header section -->
-	<header id="header-section" class="ha-header ha-header-hide">
+	<header id="header-section" class="ha-header ha-header-show">
     	<div class="grid-container">
 				<div class="ha-header-perspective">
 					<div class="ha-header-front">
                     <div class="grid-20 tablet-grid-20 hide-on-mobile">
-						<h1 class="logo"><a href="#top"><img src="images/1c.jpg" alt="Ivy's Florist"></a></h1>
+						<h1 class="logo"><a href="#"><img src="images/1c.jpg" alt="Ivy's Florist"></a></h1>
                         </div>
-						<nav id="ut-navigation" class="grid-80 tablet-grid-80 hide-on-mobile">
-                        	<a class="selected" href="#top">Home</a>
+						<nav id="nav-menu" class="grid-80 tablet-grid-80 hide-on-mobile">
+                        	<a href="#">Home</a>
                             <a href="#portfolio-section">Design</a>
-							<a href="#service-section">Services</a>
-                            <a href="#about-section">About</a>
+							<a href="#service">Services</a>
+                            <a href="#about">About</a>
                             <a href="#contact-section">Contact</a>
                             <a href="#social-section">Social</a>
 						</nav>
+
+
 					</div>
 				</div><!-- close .ha-header-perspective --> 
         </div><!-- close grid container -->  
     </header><!-- close header -->
+    
     
     <div class="clear"></div>
     
@@ -98,7 +104,15 @@
 
                     <span class="btn-holder"><a href="#portfolio-section" class="hero-btn">Start Beauty</a></span>
                 </div>
-            </div><!-- close hero-holder -->    													
+            </div><!-- close hero-holder --> 
+            
+            <div class="btn-credit">
+                <a href="#portfolio-section" class="credie-text">Ivy's Florist Owner & Stylish: Ivy Le<br>
+                Web Design: Minh-ha Le, Award-wining Multimedia Specialist<br>
+                Web Developer: Khiem Le</a>
+                </div>
+            
+            
     	</div>
     </section><!-- close hero section -->
            
@@ -278,7 +292,8 @@
     
 
     <!-- parallax banner 2-->
-     <section id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
+     <section id="about">    
+     <div id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
      <div class="parallax-overlay parallax-overlay-2"></div>
         <div class="grid-container parallax-content">
             
@@ -292,6 +307,7 @@
                 <!-- close parallax header -->
    
         </div><!-- close grid container -->
+    </div>
     </section><!-- close parallax banner 2-->
     
     </div><!-- close nav-waypoint -->
@@ -457,7 +473,8 @@
 
 
     <!-- parallax banner 2-->
-     <section id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
+     <section id="service">
+     <div id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
      <div class="parallax-overlay parallax-overlay-2"></div>
 		<div class="grid-container parallax-content">
             
@@ -471,6 +488,7 @@
             	<!-- close parallax header -->
    
 		</div><!-- close grid container -->
+    </div>
 	</section><!-- close parallax banner 2-->
     
     </div><!-- close nav-waypoint -->
@@ -682,6 +700,26 @@
     </section><!-- close portfolio section -->
 
     <div class="clear"></div>
+
+    <!-- parallax banner 2-->
+     <section id="parallax-section-2" class="parallax-section parallax-background parallax-section-2 ha-waypoint">
+     <div class="parallax-overlay parallax-overlay-2"></div>
+        <div class="grid-container parallax-content">
+            
+                <!-- parallax header -->
+                <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                    <header class="parallax-header">
+                        <h2 class="parallax-title"><span>Ivy's florist = Specialist</span></h2>
+                        <p class="parallax-slogan">Let us make your <strong>special</strong> day more <strong>special</strong>!</p>                        
+                    </header>
+                </div>
+                <!-- close parallax header -->
+   
+        </div><!-- close grid container -->
+    </section><!-- close parallax banner 2-->
+    
+    </div><!-- close nav-waypoint -->
+    
     
 
     <!-- testimonial section -->

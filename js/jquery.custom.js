@@ -35,7 +35,7 @@
 					$header.attr('class', 'ha-header ' + animClassDown );
 				}
 				else if( direction === 'up' && animClassUp ){
-					$header.attr('class', 'ha-header ' + animClassUp );
+					$header.attr('ha-header ' + animClassUp );
 				}			
 			
 			}, { offset: '-1px' } );

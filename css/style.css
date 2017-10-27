@@ -149,9 +149,9 @@ img {
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	transition: all 0.5s;
-	background:rgb(255, 255, 255);
-	background:rgba(255, 255, 255, 0.95);
-	box-shadow:0 1px 10px rgba(31, 50, 63, 0.25);
+	/*background:rgb(255, 255, 255);
+	background:rgba(255, 255, 255, 0.95);*/
+	box-shadow:0 1px 0px rgba(31, 50, 63, 0.25);
 }
 .ha-header-perspective {
 	width: 100%;
@@ -183,7 +183,7 @@ img {
 .logo {
 	text-align:left;
 	margin:0;
-	line-height:80px;
+	line-height:70px;
 	color:#1d1d1d;
 	text-transform:uppercase;
 }
@@ -332,6 +332,35 @@ img {
 	display:block;
 	margin-top: 5%;
 }
+
+.btn-credit {
+	display:block;
+	/*margin-top: 45%;*/
+	
+	position: absolute;
+	bottom: 0.5em;
+    right: 0.5em;
+}
+
+.credie-text {
+	line-height:140%;
+	margin:0;
+	z-index:5;
+	background:transparent;
+	color:#DCDCDC;
+	/*border:2px solid rgba(255, 255, 255, 0.15);
+	padding:10px 10px;*/
+	font-size:8px;
+	font-weight: 100;
+	cursor:pointer;
+	text-align:left;
+	display:inline-block;
+	text-rendering: optimizelegibility;
+	-webkit-transition:0.2s background linear;
+		-moz-transition:0.2s background linear;
+			transition:0.2s background linear;
+}
+
 .hero-btn {
 	background:transparent;
 	color:#FFFFFF;
