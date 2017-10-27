@@ -338,12 +338,12 @@ img {
 	/*margin-top: 45%;*/
 	
 	position: absolute;
-	bottom: 0.5em;
-    right: 1em;
+	bottom: 0.2em;
+    right: 2em;
 }
 
 a-1:hover {
-	color: #DCDCDC;
+	color: #FFFFFF;
 }
 
 .credie-text {
@@ -354,7 +354,7 @@ a-1:hover {
 	color:#999999;
 	/*border:2px solid rgba(255, 255, 255, 0.15);
 	padding:10px 10px;*/
-	font-size:9px;
+	font-size:10px;
 	font-weight: 100;
 	cursor:pointer;
 	text-align:left;
