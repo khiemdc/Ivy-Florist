@@ -49,7 +49,7 @@
 		var ut_word_rotator = function() {
                 
 			var ut_rotator_words = [
-				'Welcome to Ivy\'s<span>Florist</span>',
+				'Welcome to Ivy\'s<span> Florist</span>',
 				'<span>Love</span> is the Flower',
 				'<span>The Earth Laughs in</span> Flower',
 				'<span>Ivy\'s</span> Florist',
